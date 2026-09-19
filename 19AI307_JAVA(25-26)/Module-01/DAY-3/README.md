@@ -1,16 +1,6 @@
 # Ex.No:1(C) LOOPING STATEMENT
 
 ## QUESTION:
-
-
-## AIM:
-
-
-## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'# Ex.No:1(C) LOOPING STATEMENT
-
-## QUESTION:
 Construct a right-angled triangle star pattern using for loop.
 ## AIM:
 To write a Java program using looping statements to print a right-angled triangle star pattern based on user input.
@@ -77,32 +67,3 @@ Thus, the Java program using looping statements to print a right-angled triangle
 
 
 
-
-3.	
-
-
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
