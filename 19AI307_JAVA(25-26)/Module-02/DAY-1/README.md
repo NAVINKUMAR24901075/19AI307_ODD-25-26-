@@ -1,8 +1,9 @@
 # Ex.No:2(A) CLASS AND OBJECT
 
+## Date:04/08/2026
+
 ## QUESTION:
 Create a class Person with attributes name and age. Write a method greet() that prints: Hello, my name is <name> and I am <age> years old.
-
 
 
 ## AIM:
@@ -20,17 +21,10 @@ To write a Java program that demonstrates the concept of Class and Object using 
 8. End the program.
 
 
-
-
-
 ## PROGRAM:
- ```
-/*
-Program to implement a Class and Objects using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
@@ -65,10 +59,6 @@ class prog {
 }
 
 ```
-
-
-
-
 
 ## OUTPUT:
 
