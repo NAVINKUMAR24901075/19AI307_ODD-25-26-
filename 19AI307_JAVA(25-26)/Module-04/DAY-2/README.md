@@ -1,5 +1,8 @@
 # Ex.No:4(B)  IMPLEMENT SOLID PRINCIPLES IN JAVA PROGRAM 
 
+## Date:01/09/2026
+
+
 ## QUESTION:
 In a large office, multiple departments send print jobs to a shared central printer. To manage load and prevent collision, a Print Spooler Manager handles all job submissions.
 
@@ -30,13 +33,10 @@ To write a Java program that demonstrates the Singleton Design Pattern, ensuring
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a SOLID Principles in Java Program
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
