@@ -1,5 +1,8 @@
 # Ex.No:3(F) WRAPPER CLASS
 
+## Date:18/08/2026
+
+
 ## QUESTION:
 Find the largest digit in a number using wrapper class methods.
 
@@ -17,13 +20,10 @@ To write a Java program to find the largest digit in a given number using Wrappe
 8. Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Wrapper Class using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
