@@ -1,5 +1,8 @@
 # Ex.No:2(B) METHODS
 
+## Date:04/08/2026
+
+
 ## QUESTION:
 Write a method int cube(int x) that calls a method int square(int x) internally to calculate the cube as x * square(x).
 
@@ -18,17 +21,10 @@ To write a Java program that demonstrates calling one method from another method
 7. Stop the program.
 
 
-
-
-
 ## PROGRAM:
- ```
-/*
-Program to implement a Methods using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
