@@ -1,5 +1,8 @@
 # Ex.No:3(E) INNER CLASS
 
+## Date:18/08/2026
+
+
 ## QUESTION:
 Write a Java program to create an inner class and access it from the outer class.
 
@@ -19,13 +22,9 @@ To write a Java program that demonstrates the use of an Inner Class and how it c
 9. Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a InnerClass using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
