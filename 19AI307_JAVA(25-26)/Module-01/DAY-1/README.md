@@ -1,5 +1,7 @@
 # Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
 
+Date : 24/07/2026
+
 ## QUESTION:
 Lovely has just started learning Java and is very excited about how to display messages on the screen. Her first mission is to understand how different types of print statements work:
 
@@ -25,11 +27,9 @@ To write a Java program that demonstrates the use of variables, data types, oper
 
 ## PROGRAM:
  ```
-/*
 Program to implement variables and Operators using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
+Developed by: NAVINKUMAR.S
+RegisterNumber: 212224110041
 ```
 
 ## Sourcecode.java:
