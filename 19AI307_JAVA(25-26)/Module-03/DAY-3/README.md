@@ -1,5 +1,8 @@
 # Ex.No:3(C) ABSTRACTION
 
+## Date:18/08/2026
+
+
 ## QUESTION:
 A group of researchers receives mysterious numerical sequences believed to be sent by intelligent alien life. To decode them, scientists have built intelligent SignalAgents that follow abstract processing rules. Each agent listens to the numbers differently.
 
@@ -19,13 +22,11 @@ To implement Abstraction in Java by defining an abstract class with abstract met
 8. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Abstraction using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
+
 
 ## SOURCE CODE:
 ```
