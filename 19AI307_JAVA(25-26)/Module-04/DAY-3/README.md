@@ -1,5 +1,8 @@
 # Ex.No:4(C)  COMPOSITION IN JAVA
 
+## Date:01/09/2026
+
+
 ## QUESTION:
 Create animals from two regions: "Africa" and "Asia". Use Abstract Factory to create families of animals (Herbivore, Carnivore). Print the interaction result.
 
@@ -20,13 +23,9 @@ To write a Java program demonstrating Composition and Abstract Factory Pattern b
 9. Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Composition Concepts in Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
