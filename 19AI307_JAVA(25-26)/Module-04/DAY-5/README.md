@@ -1,5 +1,8 @@
 # Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
+## Date:01/09/2026
+
+
 ## QUESTION:
 Create a program that sends different types of notifications: "email", "sms", and "push". Use the Factory Pattern to generate the appropriate notification sender and call its notifyUser() method.
 
@@ -24,13 +27,10 @@ To write a Java program that demonstrates a Behavioral Pattern using the Factory
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Behaviour Pattern using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
