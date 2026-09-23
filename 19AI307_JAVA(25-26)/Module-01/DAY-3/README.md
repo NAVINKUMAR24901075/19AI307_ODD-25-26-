@@ -1,5 +1,7 @@
 # Ex.No:1(C) LOOPING STATEMENT
 
+## Date : 24/07/2026
+
 ## QUESTION:
 Construct a right-angled triangle star pattern using for loop.
 ## AIM:
@@ -22,13 +24,9 @@ To write a Java program using looping statements to print a right-angled triangl
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Looping Statement using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber: 212224110041
 
 ## SOURCE CODE:
 
