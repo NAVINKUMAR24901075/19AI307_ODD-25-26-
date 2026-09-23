@@ -1,5 +1,7 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
+## Date : 24/07/2026
+
 ## QUESTION:
 In a haunted house, lights turn on or off based on the hour of entry:
 
@@ -41,13 +43,9 @@ To write a Java program that uses conditional statements to determine the state 
 12. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a conditional statement using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+## RegisterNumber: 212224110041
 
 ## Sourcecode.java:
 ```
