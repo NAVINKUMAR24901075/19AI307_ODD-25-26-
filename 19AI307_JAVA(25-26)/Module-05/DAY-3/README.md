@@ -1,4 +1,8 @@
 # Ex.No:5(C)  FILE HANDLING USING JAVA
+
+## Date:10/09/2026
+
+
 ## QUESTION:
 Write a program to count the number of characters in a file.
 
@@ -13,13 +17,10 @@ To count and display the total number of characters in a file using FileReader.
 5.	Display the total character count.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a File Handling using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
