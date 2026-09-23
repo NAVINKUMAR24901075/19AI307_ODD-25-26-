@@ -1,5 +1,8 @@
 # Ex.No:3(D)    INTERFACE 
 
+## Date:18/08/2026
+
+
 ## QUESTION:
 Each judge uses different criteria to score fighters. Based on points, the judge will declare “WIN”, “LOSE” or “DRAW”.
 
@@ -20,13 +23,10 @@ To write a java program demonstrating Interface implementation using different j
 8.Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Interface using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
