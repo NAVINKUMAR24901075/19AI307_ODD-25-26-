@@ -1,5 +1,7 @@
 # Ex.No:2(E) ACCESS MODIFIERS
 
+## Date:04/08/2026
+
 ## QUESTION:
 Create a class Calculator with: One non-static method add(int a, int b) that returns the sum, One static method info() that says "Calculator is ready".
 
@@ -18,13 +20,10 @@ To write a Java program that demonstrates the use of access modifiers through st
 9. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Access Modifiers using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
