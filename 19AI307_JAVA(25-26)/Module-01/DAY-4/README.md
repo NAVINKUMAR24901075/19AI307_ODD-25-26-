@@ -22,8 +22,8 @@ To write a Java program that finds the index position of a specified element fro
 
 ## PROGRAM:
 
-### Developed by: Gobikrishnan S R
-### RegisterNumber:212224060081
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
