@@ -1,5 +1,8 @@
 # Ex.No:4(A) EXCEPTION HANDLING
 
+## Date:01/09/2026
+
+
 ## QUESTION:
 If an Integer object is set to null, and you attempt to call .toString() on it, what happens? How can you prevent your code from throwing an exception in such cases?
 
@@ -18,13 +21,10 @@ To write a Java program to demonstrate NullPointerException when calling .toStri
 7. Display output and end the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Exception Handling using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
