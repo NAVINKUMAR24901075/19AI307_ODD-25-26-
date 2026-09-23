@@ -1,5 +1,8 @@
 # Ex.No:4(D) DESIGN PATTERN -- ABSTRACT FACTORY
 
+## Date:01/09/2026
+
+
 ## QUESTION:
 You are asked to simulate a simple Shape Drawing Tool using the Factory Design Pattern in Java.
 
@@ -23,13 +26,10 @@ To write a Java program that implements the Factory Design Pattern to create and
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Abstract Factory Pattern using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
