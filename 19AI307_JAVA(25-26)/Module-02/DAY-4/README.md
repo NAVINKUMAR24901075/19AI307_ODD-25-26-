@@ -1,5 +1,7 @@
 # Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
+## Date:04/08/2026
+
 ## QUESTION:
 Create a Java class Book with instance variables title and author.
 
@@ -17,13 +19,9 @@ To write a Java program to demonstrate variable scope and the use of a construct
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 ```
