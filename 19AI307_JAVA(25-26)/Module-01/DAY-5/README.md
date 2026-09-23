@@ -1,5 +1,7 @@
 # Ex.No:1(E) STRINGS AND MATH FUNCTION
 
+## Date : 24/07/2026
+
 ## QUESTION:
 
 Write a Java program to calculate the power of a given number.
@@ -18,13 +20,9 @@ To write a Java program to compute the power of a number using the Math.pow() fu
 7. Stop the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Strings and Math Function using Java
-Developed by: Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
 
 ## SOURCE CODE:
 
