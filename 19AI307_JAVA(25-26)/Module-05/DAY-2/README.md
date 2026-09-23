@@ -1,5 +1,8 @@
 # Ex.No:5(B) SERIALIZATION AND DESERIALIZATION 
 
+## Date:10/09/2026
+
+
 ## QUESTION:
 Write a Java program to read a string from the user, compress it in memory using ByteArrayOutputStream + GZIPOutputStream, and then decompress it back using ByteArrayInputStream + GZIPInputStream.
 
@@ -14,13 +17,11 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
 5.	Display both compressed size and decompressed string.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Serialization and Deserialization using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
+
 ## SOURCE CODE:
 ```
 import java.io.*;
