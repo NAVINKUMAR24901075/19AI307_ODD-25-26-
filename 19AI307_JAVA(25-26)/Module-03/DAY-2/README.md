@@ -1,5 +1,8 @@
 # Ex.No:3(b) POLYMORPHISM
 
+## Date:18/08/2026
+
+
 ## QUESTION:
 Write a Java program using method overriding. Create a superclass Bank with a method getInterestRate() returning 0. Create subclasses SBI, ICICI, and HDFC that override the method.
 
@@ -18,13 +21,11 @@ To write a Java program demonstrating runtime polymorphism using method overridi
 9. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Polymorphism using Java
-Developed by:Gobikrishnan S R
-RegisterNumber:212224060081
-*/
-```
+
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
+
 
 ## SOURCE CODE:
 ```
