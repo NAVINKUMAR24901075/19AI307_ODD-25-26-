@@ -1,5 +1,6 @@
 # Ex.No:5(D) THREAD PRIORITY
-Note : Read the threadname from the User
+
+## Date:10/09/2026
 
 ## AIM:
 To read a thread name from the user and display the current thread’s name and priority.
@@ -15,13 +16,10 @@ To read a thread name from the user and display the current thread’s name and 
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Thread Priority Concept using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
