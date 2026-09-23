@@ -1,5 +1,8 @@
 # Ex.No:5(A) INPUTSTREAMREADER 
 
+## Date:10/09/2026
+
+
 ## QUESTION:
 Write a Java program to write characters to a file using FileWriter.
 
@@ -14,13 +17,10 @@ To write character data into a file using the FileWriter class in Java.
 5.	Close the FileWriter and handle exceptions using try-catch.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a InputStreamReader using Java
-Developed by: Gobikrishnan S R
-RegisterNumber: 212224060081
-*/
-```
+ 
+### Developed by: NAVINKUMAR.S
+### RegisterNumber:212224110041
+
 
 ## SOURCE CODE:
 ```
